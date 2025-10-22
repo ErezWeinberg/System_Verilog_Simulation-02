@@ -1,6 +1,8 @@
 # 32-bit Multiplier Implementations in SystemVerilog
 
-This repository contains multiple implementations of 32-bit multipliers in SystemVerilog, demonstrating different design approaches and optimization techniques.
+This repository contains assignment number 2 in curse Digital Systems And Comp Structure in the Technion,
+multiple implementations of 32-bit multipliers in SystemVerilog, demonstrating different design approaches and optimization techniques.
+
 
 ## Project Overview
 
