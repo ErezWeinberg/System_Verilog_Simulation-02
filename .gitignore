@@ -1,0 +1,24 @@
+# ModelSim/QuestaSim files
+work/
+*.wlf
+*.vstf
+*.wlft
+transcript
+vsim.wlf
+*.bak
+
+# Simulation logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Compiled files
+*.vcd
+*.vpd
+
+# Coverage files
+*.ucdb
